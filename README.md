@@ -8,22 +8,38 @@
 ---
 
 ## 🛠 Структура проекта
-├── .gitignore 
+├── .gitignore
+
 C3/
+
 ├── Models/
-│ ├── Order.cs 
-│ └── Point.cs 
+
+│ ├── Order.cs
+
+│ └── Point.cs
+
 │
+
 ├── Services/
+
 │ ├── Graph.cs /
-│ ├── AStarSolver.cs 
-│ ├── TrafficFactors.cs 
-│ └── VectorInfluence.cs 
+
+│ ├── AStarSolver.cs
+
+│ ├── TrafficFactors.cs
+
+│ └── VectorInfluence.cs
+
 │
-├── MainWindow.xaml 
-├── MainWindow.xaml.cs 
-├── App.xaml / App.xaml.cs 
-├── BestDelivery.dll 
+
+├── MainWindow.xaml
+
+├── MainWindow.xaml.cs
+
+├── App.xaml / App.xaml.cs
+
+├── BestDelivery.dll
+
 └── README.md 
 
 ---
