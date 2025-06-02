@@ -42,6 +42,7 @@
 
 ## Внешние факторы
 Добавление внешних факторов осуществляется в классе MainWindow.xaml.cs на строке 82:
+
 vectorInfluence.SetFactor(2, 5, 1.5);
 
 vectorInfluence.SetFactor(0, 3, 0.8);
